@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AfekaMiniTorrent_DataBaseServer">
+  <DataContextMoniker Name="/AfekaMiniTorrent_DataBaseServerDataContext" />
+  <nestedChildShapes>
+    <classShape Id="38f0529d-03f4-47b9-b607-4dc4a874c463" absoluteBounds="0.75, 0.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AfekaMiniTorrent_DataBaseServerDataContext/Client" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5401e6e3-1d8c-4a80-a261-575d7102d28d" absoluteBounds="0.765, 1.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1df8dc7d-db14-4e24-ade5-3428d5c0a0fa" absoluteBounds="0.875, 2.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/AfekaMiniTorrent_DataBaseServerDataContext/File" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1ec79d34-6e32-4f33-bf2d-491144677e76" absoluteBounds="0.89, 3.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,5 @@
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DetailsLibrary\bin\Debug\DetailsLibrary.dll
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DetailsLibrary\bin\Debug\DetailsLibrary.pdb
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DetailsLibrary\obj\Debug\DetailsLibrary.dll
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DetailsLibrary\obj\Debug\DetailsLibrary.pdb
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DetailsLibrary\obj\Debug\DetailsLibrary.csprojResolveAssemblyReference.cache

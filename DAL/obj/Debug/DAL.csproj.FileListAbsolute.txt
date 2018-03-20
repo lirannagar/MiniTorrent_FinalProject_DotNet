@@ -1,0 +1,10 @@
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\bin\Debug\AfekaMiniTorrent_DataBase.mdf
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\bin\Debug\AfekaMiniTorrent_DataBase_log.ldf
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\bin\Debug\DAL.dll
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\bin\Debug\DAL.pdb
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\bin\Debug\DetailsLibrary.dll
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\bin\Debug\DetailsLibrary.pdb
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\obj\Debug\DAL.dll
+C:\Users\liran\Desktop\OurMiniTorrent_FinalProject\DAL\obj\Debug\DAL.pdb

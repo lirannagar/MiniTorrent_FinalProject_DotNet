@@ -1,0 +1,24 @@
+﻿<Window x:Class="ClientApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientApplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Background="Bisque">
+        <Label x:Name="userName_label" Content="User Name:" HorizontalAlignment="Left" Margin="104,50,0,0" VerticalAlignment="Top" Width="89"/>
+        <Label x:Name="password_label" Content="Password:" HorizontalAlignment="Left" Margin="104,98,0,0" VerticalAlignment="Top" Width="89" RenderTransformOrigin="0.589,1.241"/>
+        <TextBox x:Name="userName_textBox" HorizontalAlignment="Left" Height="23" Margin="198,0,0,247.667" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="120"/>
+        <PasswordBox x:Name="password_textBox" HorizontalAlignment="Left" Height="23" Margin="198,101,0,0"  VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="uploadPath_label" Content="Upload path:" HorizontalAlignment="Left" Margin="10,155,0,0" VerticalAlignment="Top" Width="89"/>
+        <TextBox x:Name="uploadPath_textBox" HorizontalAlignment="Left" Height="24" Margin="10,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="377"/>
+        <Label x:Name="downloadPath_label" Content="Download path:" HorizontalAlignment="Left" Margin="13,216,0,0" VerticalAlignment="Top" Width="103"/>
+        <TextBox x:Name="downloadPath_textBox" HorizontalAlignment="Left" Height="25" Margin="10,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="377"/>
+        <Button x:Name="uploadBrowse_button" Content="Browse" HorizontalAlignment="Left" Margin="413,187,0,0" VerticalAlignment="Top" Width="96" Height="24" Click="uploadBrowse_button_Click" Background="DarkSalmon"/>
+        <Image x:Name="success_upload" Margin="13,154,480,141" Source="success.png" Stretch="Fill" RenderTransformOrigin="-0.25,0.083" Visibility="Hidden"/>
+        <Image x:Name="success_download" Margin="13,205,480,90" Source="success.png" Stretch="Fill" Visibility="Hidden"/>
+        <Button x:Name="downloadBrowse_button" Content="Browse" HorizontalAlignment="Left" Margin="413,247,0,0" VerticalAlignment="Top" Width="96" Height="25" Background="DarkSalmon" Click="downloadBrowse_button_Click"/>
+        <Button x:Name="login_button" Content="Login" HorizontalAlignment="Left" Margin="198,291,0,0" VerticalAlignment="Top" Width="93" Background="HotPink" Click="login_button_Click"/>
+    </Grid>
+</Window>
